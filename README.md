@@ -1,8 +1,8 @@
-<h1>Hi, I'm Duriya 👋</h1>
+<h1>Hello, I'm Duriya 👋</h1>
 
 <p>
 Frontend Developer specialized in <b>React, Next.js, and modern JavaScript</b>.  
-Strong foundation in <b>C++, Java, data structures</b>, with a focus on clean UI, performance, and SEO-friendly applications.
+Strong foundation in <b>C++, Java, data structures</b>, with hands-on experience in <b>UI/UX principles</b> and translating designs into clean, responsive interfaces.
 </p>
 
 ---
@@ -25,6 +25,10 @@ Strong foundation in <b>C++, Java, data structures</b>, with a focus on clean UI
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 
+  <!-- UI / UX -->
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="UI/UX" src="https://img.shields.io/badge/-UI%2FUX-6A5ACD?style=flat-square&logo=adobe&logoColor=white" />
+
   <!-- Tools -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -38,10 +42,10 @@ Strong foundation in <b>C++, Java, data structures</b>, with a focus on clean UI
 <h3>🎯 What I Focus On</h3>
 
 <ul>
-  <li>Building responsive and scalable frontend applications</li>
-  <li>Clean component architecture using React & Next.js</li>
-  <li>Performance optimization and SEO best practices</li>
-  <li>Writing readable, maintainable code</li>
+  <li>Building responsive and accessible user interfaces</li>
+  <li>Converting Figma designs into high-quality React & Next.js applications</li>
+  <li>Applying UI/UX best practices for better user experience</li>
+  <li>Performance optimization and SEO-friendly frontend development</li>
 </ul>
 
 ---
@@ -49,7 +53,7 @@ Strong foundation in <b>C++, Java, data structures</b>, with a focus on clean UI
 <h3>📌 Featured Projects</h3>
 
 <p>
-Check out my pinned repositories below — they showcase my best work with React, Next.js, and frontend architecture.
+My pinned repositories highlight my strongest frontend, UI-focused, and architecture-driven projects.
 </p>
 
 ---
@@ -58,8 +62,9 @@ Check out my pinned repositories below — they showcase my best work with React
 
 <ul>
   <li>Computer Science diploma (C++, OOP, Java, Data Structures, Algorithms, Agile)</li>
-  <li>Frontend development with modern tools and frameworks</li>
-  <li>Experience with WordPress and on-page SEO fundamentals</li>
+  <li>Frontend development with React, Next.js, and TypeScript</li>
+  <li>UI/UX fundamentals with practical Figma experience</li>
+  <li>WordPress development and on-page SEO basics</li>
 </ul>
 
 ---
@@ -74,4 +79,3 @@ Check out my pinned repositories below — they showcase my best work with React
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
